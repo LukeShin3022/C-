@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LukeWeb", "LukeWeb\LukeWeb.csproj", "{E23BDCE4-802D-43AF-BF8E-D6A7F60CBD03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LukeWeb", "LukeWeb\LukeWeb.csproj", "{691B2AED-7CBC-4E24-9D19-DD3D6ABE4F44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E23BDCE4-802D-43AF-BF8E-D6A7F60CBD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E23BDCE4-802D-43AF-BF8E-D6A7F60CBD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E23BDCE4-802D-43AF-BF8E-D6A7F60CBD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E23BDCE4-802D-43AF-BF8E-D6A7F60CBD03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691B2AED-7CBC-4E24-9D19-DD3D6ABE4F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691B2AED-7CBC-4E24-9D19-DD3D6ABE4F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691B2AED-7CBC-4E24-9D19-DD3D6ABE4F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691B2AED-7CBC-4E24-9D19-DD3D6ABE4F44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {19742A04-050A-43A0-93CA-935028706BC5}
+		SolutionGuid = {46634A8C-1076-4AAC-A596-22DA1EF4FF76}
 	EndGlobalSection
 EndGlobal
